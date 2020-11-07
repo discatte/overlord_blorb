@@ -1,6 +1,6 @@
 // POV-Ray 3.7 Scene File " ... .pov"
-// author:   ...  
-// date:   ...
+// author:   Discatte  
+// date:   November 6th, 200020
 //--------------------------------------------------------------------------
 #version 3.7;
 global_settings{ assumed_gamma 1.0 }
