@@ -9,4 +9,4 @@ d.png -t 10 -pix_fmt yuv420p blorb.mp4`
 
 To make a gif (requires Image Magick) `convert -delay 2 -dispose Background blorb*.png discque-hearto-pulse.gif`
 
-![discque](https://raw.githubusercontent.com/discatte/blorb/main/blorb.png)
+![president blorb](https://raw.githubusercontent.com/discatte/overlord_blorb/main/blorb.png)
